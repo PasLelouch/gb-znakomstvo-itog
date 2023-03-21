@@ -1,0 +1,15 @@
+D:\GB\Znakomstvo-itog\bin\Debug\net6.0\Znakomstvo-itog.exe
+D:\GB\Znakomstvo-itog\bin\Debug\net6.0\Znakomstvo-itog.deps.json
+D:\GB\Znakomstvo-itog\bin\Debug\net6.0\Znakomstvo-itog.runtimeconfig.json
+D:\GB\Znakomstvo-itog\bin\Debug\net6.0\Znakomstvo-itog.dll
+D:\GB\Znakomstvo-itog\bin\Debug\net6.0\Znakomstvo-itog.pdb
+D:\GB\Znakomstvo-itog\obj\Debug\net6.0\Znakomstvo-itog.csproj.AssemblyReference.cache
+D:\GB\Znakomstvo-itog\obj\Debug\net6.0\Znakomstvo-itog.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Znakomstvo-itog\obj\Debug\net6.0\Znakomstvo-itog.AssemblyInfoInputs.cache
+D:\GB\Znakomstvo-itog\obj\Debug\net6.0\Znakomstvo-itog.AssemblyInfo.cs
+D:\GB\Znakomstvo-itog\obj\Debug\net6.0\Znakomstvo-itog.csproj.CoreCompileInputs.cache
+D:\GB\Znakomstvo-itog\obj\Debug\net6.0\Znakomstvo-itog.dll
+D:\GB\Znakomstvo-itog\obj\Debug\net6.0\refint\Znakomstvo-itog.dll
+D:\GB\Znakomstvo-itog\obj\Debug\net6.0\Znakomstvo-itog.pdb
+D:\GB\Znakomstvo-itog\obj\Debug\net6.0\Znakomstvo-itog.genruntimeconfig.cache
+D:\GB\Znakomstvo-itog\obj\Debug\net6.0\ref\Znakomstvo-itog.dll
